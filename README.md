@@ -1,0 +1,2 @@
+# baja-all-terrain-vehicle
+This submission contains a set of models created with Simulink, Simscape, and Simscape Driveline. More specifically, the file contained includes BAJA ATV model with Continuously Variable Transmission(CVT). These models show how to build an ATV with CVT which is mostly used in BAJA competitions. Simscape and Simscape Driveline have been used to complete the system. The engine data used in the model is provided as an image which shows the Engine Speed (RPM) Vs Torque curve.
